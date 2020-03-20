@@ -18,22 +18,23 @@ p{
 }
 
 .bg-comunicacion{
-	background-color: #37BA98;
+	background-color: #37BB96;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
+	padding: 30px 0;
 }
 
 
 .bg-estrategica{
-	background-color: #394758;
+	background-color: #333E50;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
 .bg-diseno{
-	background-color: #37BA98;
+	background-color: #37BB96;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -260,7 +261,7 @@ p{
 	border-radius: 0 !important;
 }
 
-.nombre{
+.row .nombre{
 	font-size: 18px;
 	font-weight: 300;
 }
