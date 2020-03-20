@@ -22,7 +22,7 @@ p{
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	padding: 30px 0;
+	padding: 100% 0;
 }
 
 
@@ -56,6 +56,7 @@ p{
 .menu h2{
 	color: #fff;
 	font-size:30px;
+	text-align: center; 
 	margin-bottom: 4px;
 }
 
@@ -259,9 +260,4 @@ p{
 	text-align: center;
 	width: 100%;
 	border-radius: 0 !important;
-}
-
-.row .nombre{
-	font-size: 18px;
-	font-weight: 300;
 }
