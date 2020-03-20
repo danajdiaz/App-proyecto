@@ -21,7 +21,6 @@ p{
 	background-color: #37BB96 !important;
 	background-size: cover;
 	background-position: center;
-	background-repeat: no-repeat;
 	padding: 200% 0 !important;
 }
 
@@ -30,14 +29,14 @@ p{
 	background-color: #333E50;
 	background-size: cover;
 	background-position: center;
-	background-repeat: no-repeat;
+	padding: 200% 0 !important;
 }
 
 .bg-diseno{
 	background-color: #37BB96;
 	background-size: cover;
 	background-position: center;
-	background-repeat: no-repeat;
+	padding: 200% 0 !important;
 }
 
 
@@ -202,8 +201,9 @@ p{
 }
 
 .card-hero{
-	background-color: #f3f3f3;
+	background-color: #fff;
 	padding: 40px;
+	margin-top: 20%;
 }
 
 .card-header{
