@@ -45,6 +45,12 @@ var myApp = new Framework7({
     	url: 'empresas.html',
     	name: 'empresas',
   		},
+		
+		{
+		path: '/freelancer/',
+    	url: 'freelancer.html',
+    	name: 'freelancer',
+  		},
 	]
 });
 
