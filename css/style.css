@@ -93,17 +93,11 @@ p{
 	position:relative;
 }
 
-.hero-ofertantes h2{
-	font-size: 34px;
-	font-weight: 600;
+.hero-ofertantes h4{
+	font-size: 18px;
+	font-weight: 400;
 	color: #fff;
 	margin-bottom:0;
-}
-
-.hero-ofertantes p{
-	font-size: 12px;
-	font-weight: 300;
-	color: #fff;
 }
 
 .list-menu{

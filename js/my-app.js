@@ -58,6 +58,12 @@ var myApp = new Framework7({
     	url: 'perfil.html',
     	name: 'perfil',
   		},
+		
+		{
+		path: '/busqueda/',
+    	url: 'busqueda.html',
+    	name: 'busqueda',
+  		},
 	]
 });
 
