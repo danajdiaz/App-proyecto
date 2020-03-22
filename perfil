@@ -1,0 +1,86 @@
+<section data-name="ofertantes" class="page">
+	
+	<nav class="navbar">
+	<div class="navbar-inner">
+	<div class="left"><a href="#" class="link back"><i class="material-icons">arrow_back_ios</i></a></div>
+	
+		<div class="title">Ofertantes</div>
+	</div>
+	</nav>
+	
+	<div class="page-content">
+		<article class="hero-coffee">
+			<div class="overlay"></div>
+			<div class="texto">
+			<h2>Ofertantes</h2>
+			<p>Elige un freelancer</p>
+			</div>
+		</article>
+		
+		<article class="list list-menu">
+			<ul>
+				<li>
+					  <a href="#" class="item-link item-content">
+        <div class="item-media">
+			<img src="img/ofertantesimg-01.png" class="img-fluid" alt="cafecappucino">
+						  </div>
+        <div class="item-inner">
+          <div class="item-title">
+            <h3 class="item-header">Dana Díaz</h3>
+            Trabajos Realizados: 21
+          <h4 class="item-footer">$9.00</h4>
+			</div>
+        </div>
+      </a>
+				</li>
+				
+				<li>
+					  <a href="#" class="item-link item-content">
+        <div class="item-media">
+			<img src="img/ofertantesimg-04.png" class="img-fluid" alt="caramel">
+						  </div>
+        <div class="item-inner">
+          <div class="item-title">
+            <h3 class="item-header">Yamlat Facusse</h3>
+            Trabajos Realizados: 21
+          <h4 class="item-footer">$7.85</h4>
+			</div>
+        </div>
+      </a>
+				</li>
+				
+				<li>
+					  <a href="#" class="item-link item-content">
+        <div class="item-media">
+			<img src="img/ofertantesimg-03.png" class="img-fluid" alt="kick">
+						  </div>
+        <div class="item-inner">
+          <div class="item-title">
+            <h3 class="item-header">Juan Carlos</h3>
+            Trabajos Realizados: 21
+          <h4 class="item-footer">$12.35</h4>
+			</div>
+        </div>
+      </a>
+				</li>
+				
+				<li>
+					  <a href="#" class="item-link item-content">
+        <div class="item-media">
+			<img src="img/ofertantesimg-02.png" class="img-fluid" alt="cappucino">
+						  </div>
+        <div class="item-inner">
+          <div class="item-title">
+            <h3 class="item-header">Juan Manuel</h3>
+          Trabajos Realizados: 21
+          <h4 class="item-footer">$8.00</h4>
+			</div>
+        </div>
+      </a>
+				</li>
+			</ul>
+		</article>
+	</div>
+	
+	
+</section>

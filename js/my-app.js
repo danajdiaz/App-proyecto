@@ -21,11 +21,6 @@ var myApp = new Framework7({
     	url: 'audiovisual.html',
     	name: 'audiovisual',
   		},
-		{
-		path: '/drinks/',
-    	url: 'drinks.html',
-    	name: 'drinks',
-  		},
 		
 		{
 		path: '/estrategica/',
@@ -50,6 +45,18 @@ var myApp = new Framework7({
 		path: '/freelancer/',
     	url: 'freelancer.html',
     	name: 'freelancer',
+  		},
+		
+		{
+		path: '/ofertantes/',
+    	url: 'ofertantes.html',
+    	name: 'ofertantes',
+  		},
+		
+		{
+		path: '/perfil/',
+    	url: 'perfil.html',
+    	name: 'perfil',
   		},
 	]
 });
