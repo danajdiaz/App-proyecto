@@ -200,8 +200,9 @@ p{
 	color: #000;
 	font-weight: 600;
 }
+
 .popup-confirm{
-	color: #37BB96;
+	color: #ccc;
 	text-align: center;
 }
 .icon-done{
@@ -209,21 +210,19 @@ p{
 	height: 150px;
 	line-height: 150px;
 	border-radius: 100%;
-	background-color: #fff;
 	color: #37BB96;
 	text-align: center;
 	margin: auto;
 	display: block;
 }
 .icon-done i{
-	font-size: 60px;
+	font-size: 100px;
 }
 
-
-
-
-
-
+.popup p{
+	color: #000;
+	margin-bottom: 5%;
+}
 
 
 
